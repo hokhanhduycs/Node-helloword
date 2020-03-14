@@ -14,4 +14,4 @@ console.log('Result should be : ${c}');
 
 console.warn('Hi all');
 console.error('My Error');
-
+console.log("mo them");
